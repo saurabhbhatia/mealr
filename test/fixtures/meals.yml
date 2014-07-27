@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  chef_id: 1
+  meal_type_id: 1
+  food_preference_id: 1
+  availability: 2014-07-27 20:40:39
+
+two:
+  name: MyString
+  chef_id: 1
+  meal_type_id: 1
+  food_preference_id: 1
+  availability: 2014-07-27 20:40:39
