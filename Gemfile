@@ -40,6 +40,7 @@ gem 'coveralls', require: false
 # gem 'debugger', group: [:development, :test]
 
 group :development do
+  gem 'guard'
   gem 'guard-minitest'
 end
 
