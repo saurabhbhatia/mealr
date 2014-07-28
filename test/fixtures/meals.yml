@@ -1,15 +1,44 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  name: MyString
+  name: Pizza
   chef_id: 1
   meal_type_id: 1
   food_preference_id: 1
   availability: 2014-07-27 20:40:39
 
 two:
-  name: MyString
+  name: Rissoto
   chef_id: 1
   meal_type_id: 1
   food_preference_id: 1
-  availability: 2014-07-27 20:40:39
+  availability: 2014-07-26 20:40:39
+
+three:
+  name: Pasta
+  chef_id: 1
+  meal_type_id: 1
+  food_preference_id: 1
+  availability: 2014-07-24 20:40:39
+
+
+four:
+  name: Burger
+  chef_id: 1
+  meal_type_id: 1
+  food_preference_id: 1
+  availability: 2014-07-24 20:40:39
+
+five:
+  name: Taco
+  chef_id: 1
+  meal_type_id: 1
+  food_preference_id: 1
+  availability: 2014-07-23 20:40:39
+
+six:
+  name: Burrito
+  chef_id: 1
+  meal_type_id: 1
+  food_preference_id: 1
+  availability: 2014-07-23 20:40:39
